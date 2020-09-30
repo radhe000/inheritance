@@ -1,2 +1,2 @@
-# inheritance
+# Inheritance
 Interview Test
